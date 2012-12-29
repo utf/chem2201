@@ -1,4 +1,4 @@
 chem1201
 ========
 
-My first year organic chemistry notes latexified.
+My second year organic chemistry notes latexified.
